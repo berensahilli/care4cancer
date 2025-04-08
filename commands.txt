@@ -1,0 +1,6 @@
+to install the expo-cli
+    npm install -g expo-cli
+
+to create expo project 
+    npx create-expo-app appname
+
